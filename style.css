@@ -7,12 +7,29 @@
     text-align: center;
 }
 
-.list {
+p {
     text-align: center;
 }
 
 ul {
     text-align: center;
     list-style-position: inside;
+    font-weight: lighter;
+}
+
+ul.homepage {
+    text-align: center;
+    list-style-position: inside;
     font-weight: bold;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+    font-weight: lighter;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
